@@ -1,0 +1,6 @@
+défini les différente fonction avec a et b
+return permet de renvoyer le resultat de la fonction
+if b == 0 sert a que l utilisateur ne puisse pas diviser par 0
+\n sert de faire un retour a la ligne
+num1 et num2 permet a l utilisateur de choisir 2 nombre pour les calculer
+puis le programme affiche le resultat des calcule en fonction du choix du calcule de l utilisateur
